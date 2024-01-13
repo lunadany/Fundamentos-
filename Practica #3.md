@@ -38,3 +38,9 @@ public class Main {
         System.out.println("\n El valor de la operacion =" + res6);
     }
 }
+//Daniel Luna Perez
+//Rubi Cuatecontzi Cuatecontzi
+//Miriam Jimenez Hernandez 
+//janely Cuamatzi Tlilayatzi
+//Nely Pichon Rivera
+// 5ºi
